@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_text_size">40dp</dimen>
+    <dimen name="time_text_size_round">45dp</dimen>
+    <dimen name="time_y_offset">90dp</dimen>
+
+    <dimen name="date_text_size">12dp</dimen>
+    <dimen name="date_text_size_round">18dp</dimen>
+    <dimen name="date_y_offset">110dp</dimen>
+
+    <dimen name="temp_text_size">25dp</dimen>
+    <dimen name="temp_text_size_round">30dp</dimen>
+    <dimen name="temp_y_offset">170dp</dimen>
+
+    <dimen name="icon_size">40dp</dimen>
+
+    <dimen name="icon_temp_spacing">8dp</dimen>
+    <dimen name="high_low_spacing">5dp</dimen>
+
+</resources>
